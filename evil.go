@@ -1,4 +1,4 @@
-package main
+package evil
 
 import (
 	"encoding/base64"
