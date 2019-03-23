@@ -1,4 +1,4 @@
-# Usage
+## Usage
 
 ```bash
 go get -u github.com/zrt/evil
